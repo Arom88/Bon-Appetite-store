@@ -1,4 +1,4 @@
-Bon Apetite store website
+Bon Apetite bouquets store website
 
 Availble here: https://arom88.github.io/Bon-Appetite-store/
 
