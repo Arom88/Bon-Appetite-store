@@ -1,4 +1,6 @@
-Availble here: https://mikekash.github.io/TeaCozy/.
+Bon Apetite store website
+
+Availble here: https://arom88.github.io/Bon-Appetite-store/
 
 Initial task was to landing page according to the design provided.
 
